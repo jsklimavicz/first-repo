@@ -6,3 +6,6 @@ first test repository to try things out
 - Synthesis of mosquito repellents, Synthesis of nematicides, Inventory 
 - Lab notebooks, labelling of containers, comments in code
 - Majored in organic chemistry and mathematics. MPhil in Scientific computing
+
+- Maura J. Hall 
+- Hi James I am a student at ISU 
